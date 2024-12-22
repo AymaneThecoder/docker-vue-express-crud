@@ -18,7 +18,7 @@ Kartouti yassine G-44
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-username/docker-vue-express-crud.git
+git clone https://github.com/AymaneThecoder/docker-vue-express-crud.git
 cd docker-vue-express-crud
 ```
 
