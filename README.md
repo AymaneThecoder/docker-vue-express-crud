@@ -3,9 +3,9 @@
 Un système de gestion de produits complet construit avec Vue.js, Express.js et MySQL, conteneurisé avec Docker.
 
 ## Members Of The Group
-Aymane EL HAMRAOUI G-46
-Ferkous Imed Eddine G-46
-Kartouti yassine G-44
+- Aymane EL HAMRAOUI G-46
+- Ferkous Imed Eddine G-46
+- Kartouti yassine G-44
 
 ## Prérequis
 
